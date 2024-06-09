@@ -16,8 +16,6 @@ function mergeSort(arr) {
       }
       else right.push(arr[i])
     }
-  
-  
     // Recursively sort the left half
     // Recursively sort the right half
     // Merge the halves together and return
