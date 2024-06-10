@@ -1,3 +1,5 @@
+// I added an adjacency list so that the DFT made sense
+
 // Put the starting node on a stack.
 // While the stack is not empty, repeat steps 3-4.
 // Pop a node and print it.
